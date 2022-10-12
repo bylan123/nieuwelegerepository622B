@@ -2,7 +2,12 @@ h1 {
   background-color: chartreuse;
 }
 
-.opmaakcontact  {
+.opmaakcontact {
   color: blue;
   font-size: 3em;
+}
+
+.opmaakproduct {
+  color: darkmagenta;
+  font-size: 0.2em;
 }
